@@ -1,0 +1,70 @@
+.gradient{
+    background-color: #EEEEEE;
+    height: 720px;
+}
+.lead{
+    font-family: 'Sono', sans-serif;
+}
+.sce{
+    border-radius:50%;
+    border: 12px solid whitesmoke;
+   
+}
+.info{
+    background-color: #FEFBE9;
+   
+}
+.him{
+    font-family: 'Inconsolata', monospace ;
+    color: plum;
+}
+.skill{
+    background-color: #FEFBE9;
+}
+.sem{
+    color: plum;
+    font-family: 'Inconsolata', monospace ;
+    font-weight: 900;
+}
+.d-flex{
+    background-color:#dcdcdc;
+    font-family: 'Young Serif', serif;
+
+}
+.head{
+    font-family: 'Young Serif', serif;
+ 
+    
+}
+#btn
+{
+    background-color:silver;
+    border-radius: 12px;
+border:darkgrey;
+ padding: 10px;
+}
+.hi{
+background-color: white;
+}
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  .res{
+   
+    font-family: 'Young Serif', serif;
+    padding-top: 100px;
+    margin-top: 1px;
+  
+.foot{
+    font-family: 'Young Serif', serif;  
+}
+.log{
+    font-family: 'Inconsolata', monospace ;
+    text-align: ;
+}
+    .resume{
+        padding-top: 10px;
+        margin-top: 10px;
+    }
